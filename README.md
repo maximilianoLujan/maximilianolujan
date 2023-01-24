@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [eComercce Tech](https://github.com/maximilianoLujan/PEIT-react3-store-app)
 
-- 🌱 I’m currently learning **Python with Django**
 
 - 📫 How to reach me **maxylujan1@outlook.com**
 
